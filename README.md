@@ -26,6 +26,4 @@ This project automates the process of scraping high-resolution images from web-b
     ```bash
     pip install selenium beautifulsoup4 requests
 
-3. Run the script:
-    ```bash
-    python scrape_images.py
+3. Run the notebook [scrape_images.ipynb](https://github.com/trantrieuvy/headless-scraper/blob/main/scrape_images.ipynb)
