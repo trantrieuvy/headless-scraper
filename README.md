@@ -20,8 +20,7 @@ This project automates the process of scraping high-resolution images from web-b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/image-scraper.git
-   cd image-scraper
+   git clone git@github.com:trantrieuvy/headless-scraper.git
 
 2. Instal dependencies:
     ```bash
