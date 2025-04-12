@@ -1,4 +1,5 @@
-![Pipeline](https://github.com/trantrieuvy/headless-scraper/blob/main/pipeline.png)
+<img src="https://github.com/trantrieuvy/headless-scraper/blob/main/pipeline.png" alt="Pipeline" width="400"/>
+
 # 🖼️ Headless Browser Image Scraper
 
 This project automates the process of scraping high-resolution images from web-based portfolios or gallery websites where full-size images are only accessible after clicking on thumbnails.
