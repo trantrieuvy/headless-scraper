@@ -1,4 +1,7 @@
-<img src="https://github.com/trantrieuvy/headless-scraper/blob/main/pipeline.png" alt="Pipeline" width="400"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trantrieuvy/headless-scraper/main/pipeline.png" alt="Pipeline" width="400"/>
+</p>
+
 
 # 🖼️ Headless Browser Image Scraper
 
